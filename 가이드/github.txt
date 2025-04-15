@@ -54,3 +54,6 @@ Git(깃)은 컴퓨터 파일의 변경사항을 추적하고 팀 간에 해당 �
 
 % git reset --hard HEAD : 지금 커밋 상태로 완전히 되돌리고 변경사항은 버려라 뜻
   git push origin main --force : main 브랜치를 강제로 덮어쓰기 
+
+ㅇㅇ
+ㅏㅏ
